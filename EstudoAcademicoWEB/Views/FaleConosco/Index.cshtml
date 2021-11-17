@@ -1,0 +1,55 @@
+﻿@model IEnumerable<EstudoAcademicoWEB.Models.FaleConosco>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EMAIL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MENSAGEM)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NOME_DO_REMETENTE)
+            </th>
+           
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EMAIL)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MENSAGEM)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NOME_DO_REMETENTE)
+            </td>
+           
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ID_FALE_CONOSCO }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ID_FALE_CONOSCO }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ID_FALE_CONOSCO })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

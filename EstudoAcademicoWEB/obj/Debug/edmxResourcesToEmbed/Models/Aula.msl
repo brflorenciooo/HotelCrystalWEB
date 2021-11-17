@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Estudo_AcademicoModelStoreContainer" CdmEntityContainer="Estudo_AcademicoEntities">
+    <EntitySetMapping Name="Aula">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Aula">
+        <MappingFragment StoreEntitySet="Aula">
+          <ScalarProperty Name="Id_Aula" ColumnName="Id_Aula" />
+          <ScalarProperty Name="Id_Funcionario" ColumnName="Id_Funcionario" />
+          <ScalarProperty Name="Id_Disciplina" ColumnName="Id_Disciplina" />
+          <ScalarProperty Name="Id_Tema" ColumnName="Id_Tema" />
+          <ScalarProperty Name="Id_Tipo" ColumnName="Id_Tipo" />
+          <ScalarProperty Name="Id_Nivel" ColumnName="Id_Nivel" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+          <ScalarProperty Name="Caminho" ColumnName="Caminho" />
+          <ScalarProperty Name="Data_Publicacao" ColumnName="Data_Publicacao" />
+          <ScalarProperty Name="Qtd_Download" ColumnName="Qtd_Download" />
+          <ScalarProperty Name="Qtd_view" ColumnName="Qtd_view" />
+          <ScalarProperty Name="Feedback" ColumnName="Feedback" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Disciplina">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Disciplina">
+        <MappingFragment StoreEntitySet="Disciplina">
+          <ScalarProperty Name="Id_Disciplina" ColumnName="Id_Disciplina" />
+          <ScalarProperty Name="Disciplina1" ColumnName="Disciplina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Funcao">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Funcao">
+        <MappingFragment StoreEntitySet="Funcao">
+          <ScalarProperty Name="Id_Funcao" ColumnName="Id_Funcao" />
+          <ScalarProperty Name="Funcao1" ColumnName="Funcao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Funcionario">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Funcionario">
+        <MappingFragment StoreEntitySet="Funcionario">
+          <ScalarProperty Name="Id_Funcionario" ColumnName="Id_Funcionario" />
+          <ScalarProperty Name="Id_Funcao" ColumnName="Id_Funcao" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="Cpf" ColumnName="Cpf" />
+          <ScalarProperty Name="RG" ColumnName="RG" />
+          <ScalarProperty Name="Data_Nasc" ColumnName="Data_Nasc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Login_Func">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Login_Func">
+        <MappingFragment StoreEntitySet="Login_Func">
+          <ScalarProperty Name="Id_Login_Func" ColumnName="Id_Login_Func" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="Senha" ColumnName="Senha" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Nivel_Acesso" ColumnName="Nivel_Acesso" />
+          <ScalarProperty Name="Id_Funcionario" ColumnName="Id_Funcionario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Nivel">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Nivel">
+        <MappingFragment StoreEntitySet="Nivel">
+          <ScalarProperty Name="Id_Nivel" ColumnName="Id_Nivel" />
+          <ScalarProperty Name="Nivel1" ColumnName="Nivel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tema">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Tema">
+        <MappingFragment StoreEntitySet="Tema">
+          <ScalarProperty Name="Id_Tema" ColumnName="Id_Tema" />
+          <ScalarProperty Name="Tema1" ColumnName="Tema" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tipo">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Tipo">
+        <MappingFragment StoreEntitySet="Tipo">
+          <ScalarProperty Name="Id_Tipo" ColumnName="Id_Tipo" />
+          <ScalarProperty Name="Tipo1" ColumnName="Tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Acesso">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Acesso">
+        <MappingFragment StoreEntitySet="Acesso">
+          <ScalarProperty Name="Id_Aula" ColumnName="Id_Aula" />
+          <ScalarProperty Name="Id_Aluno" ColumnName="Id_Aluno" />
+          <ScalarProperty Name="Comentarios" ColumnName="Comentarios" />
+          <ScalarProperty Name="Qualidade" ColumnName="Qualidade" />
+          <ScalarProperty Name="Data_acesso" ColumnName="Data_acesso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Prof_Disc" TypeName="Estudo_AcademicoModel.Prof_Disc" StoreEntitySet="Prof_Disc">
+      <EndProperty Name="Disciplina">
+        <ScalarProperty Name="Id_Disciplina" ColumnName="Id_Disciplina" />
+      </EndProperty>
+      <EndProperty Name="Funcionario">
+        <ScalarProperty Name="Id_Funcionario" ColumnName="Id_Funcionario" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <EntitySetMapping Name="Login_Aluno">
+      <EntityTypeMapping TypeName="Estudo_AcademicoModel.Login_Aluno">
+        <MappingFragment StoreEntitySet="Login_Aluno">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Senha" ColumnName="Senha" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Id_Aluno" ColumnName="Id_Aluno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_Prof_Disc" FunctionName="Estudo_AcademicoModel.Store.sp_Prof_Disc">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Estudo_AcademicoModel.sp_Prof_Disc_Result">
+          <ScalarProperty Name="Id_Disciplina" ColumnName="Id_Disciplina" />
+          <ScalarProperty Name="Disciplina" ColumnName="Disciplina" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="fn_prof_Disc" FunctionName="Estudo_AcademicoModel.Store.sp_Prof_Disc" />
+  </EntityContainerMapping>
+</Mapping>

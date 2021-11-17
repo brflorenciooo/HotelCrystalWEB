@@ -1,0 +1,492 @@
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll.config
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.pdb
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe.config
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.rsp
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe.config
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.rsp
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.AppContext.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Console.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe.config
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.rsp
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CoreCompileInputs.cache
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CopyComplete
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.dll
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.pdb
+C:\Users\bruno_000\Documents\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csprojAssemblyReference.cache
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll.config
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.pdb
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe.config
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.rsp
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe.config
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.rsp
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.AppContext.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Collections.Immutable.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Console.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Compression.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Reflection.Metadata.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.AccessControl.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Claims.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.ValueTuple.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe.config
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.rsp
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe.config
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.Web.Infrastructure.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.Mvc.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.Mvc.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Razor.resources.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.resources.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Helpers.resources.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Mvc.resources.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CoreCompileInputs.cache
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CopyComplete
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.dll
+Z:\EstudoAcademicoWEB\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.pdb
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll.config
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.pdb
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe.config
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.rsp
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe.config
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.rsp
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.AppContext.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Console.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe.config
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.rsp
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.Mvc.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.Mvc.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CopyComplete
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.dll
+C:\Users\ADM\Desktop\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.pdb
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CoreCompileInputs.cache
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.pdb
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.pdb
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csc.rsp
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\csi.rsp
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.AppContext.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Console.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\vbc.rsp
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.Mvc.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\PagedList.Mvc.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Razor.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Helpers.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\System.Web.Mvc.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CopyComplete
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csprojAssemblyReference.cache
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.pdb
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csc.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csc.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csc.rsp
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csi.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csi.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csi.rsp
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.AppContext.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Console.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\vbc.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\vbc.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\vbc.rsp
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.Mvc.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Helpers.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Mvc.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Razor.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.Mvc.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Razor.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Helpers.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Mvc.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csprojAssemblyReference.cache
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CoreCompileInputs.cache
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CopyComplete
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.dll
+C:\Users\bruno_000\Downloads\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.pdb
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CoreCompileInputs.cache
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.pdb
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll.config
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EstudoAcademicoWEB.pdb
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csc.exe
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csc.exe.config
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csc.rsp
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csi.exe
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csi.exe.config
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\csi.rsp
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.AppContext.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Collections.Immutable.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Console.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.Compression.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.IO.Pipes.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Reflection.Metadata.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.AccessControl.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Claims.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.ValueTuple.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\vbc.exe
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\vbc.exe.config
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\vbc.rsp
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\roslyn\VBCSCompiler.exe.config
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\Microsoft.Web.Infrastructure.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.Mvc.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Helpers.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Mvc.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Razor.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\EntityFramework.SqlServer.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\PagedList.Mvc.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Razor.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Deployment.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Webpages.Razor.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Helpers.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\System.Web.Mvc.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Razor.resources.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.resources.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Helpers.resources.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\bin\pt-br\System.Web.Mvc.resources.dll
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csproj.CopyComplete
+Z:\EstudoAcademicoWEB - OFC\EstudoAcademicoWEB\obj\Debug\EstudoAcademicoWEB.csprojAssemblyReference.cache

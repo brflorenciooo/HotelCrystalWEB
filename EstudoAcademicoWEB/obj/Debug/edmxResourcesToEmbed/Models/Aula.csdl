@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Estudo_AcademicoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Aula">
+    <Key>
+      <PropertyRef Name="Id_Aula" />
+    </Key>
+    <Property Name="Id_Aula" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Id_Funcionario" Type="Int32" Nullable="false" />
+    <Property Name="Id_Disciplina" Type="Int32" Nullable="false" />
+    <Property Name="Id_Tema" Type="Int32" Nullable="false" />
+    <Property Name="Id_Tipo" Type="Int32" Nullable="false" />
+    <Property Name="Id_Nivel" Type="Int32" Nullable="false" />
+    <Property Name="Titulo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Descricao" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Caminho" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="Data_Publicacao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Qtd_Download" Type="Int32" />
+    <Property Name="Qtd_view" Type="Int32" />
+    <Property Name="Feedback" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Acesso" Relationship="Self.FK__Acesso__Id_Aula__25869641" FromRole="Aula" ToRole="Acesso" />
+    <NavigationProperty Name="Disciplina" Relationship="Self.FK__Aula__Id_Discipl__276EDEB3" FromRole="Aula" ToRole="Disciplina" />
+    <NavigationProperty Name="Funcionario" Relationship="Self.FK__Aula__Id_Funcion__267ABA7A" FromRole="Aula" ToRole="Funcionario" />
+    <NavigationProperty Name="Nivel" Relationship="Self.FK__Aula__Id_Nivel__2A4B4B5E" FromRole="Aula" ToRole="Nivel" />
+    <NavigationProperty Name="Tema" Relationship="Self.FK__Aula__Id_Tema__286302EC" FromRole="Aula" ToRole="Tema" />
+    <NavigationProperty Name="Tipo" Relationship="Self.FK__Aula__Id_Tipo__29572725" FromRole="Aula" ToRole="Tipo" />
+  </EntityType>
+  <EntityType Name="Disciplina">
+    <Key>
+      <PropertyRef Name="Id_Disciplina" />
+    </Key>
+    <Property Name="Id_Disciplina" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Disciplina1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Aula" Relationship="Self.FK__Aula__Id_Discipl__276EDEB3" FromRole="Disciplina" ToRole="Aula" />
+    <NavigationProperty Name="Funcionario" Relationship="Self.Prof_Disc" FromRole="Disciplina" ToRole="Funcionario" />
+  </EntityType>
+  <EntityType Name="Funcao">
+    <Key>
+      <PropertyRef Name="Id_Funcao" />
+    </Key>
+    <Property Name="Id_Funcao" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Funcao1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Funcionario" Relationship="Self.FK__Funcionar__Id_Fu__2B3F6F97" FromRole="Funcao" ToRole="Funcionario" />
+  </EntityType>
+  <EntityType Name="Funcionario">
+    <Key>
+      <PropertyRef Name="Id_Funcionario" />
+    </Key>
+    <Property Name="Id_Funcionario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Id_Funcao" Type="Int32" Nullable="false" />
+    <Property Name="Nome" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Area" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Cpf" Type="String" MaxLength="11" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="RG" Type="String" MaxLength="9" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Data_Nasc" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Aula" Relationship="Self.FK__Aula__Id_Funcion__267ABA7A" FromRole="Funcionario" ToRole="Aula" />
+    <NavigationProperty Name="Funcao" Relationship="Self.FK__Funcionar__Id_Fu__2B3F6F97" FromRole="Funcionario" ToRole="Funcao" />
+    <NavigationProperty Name="Login_Func" Relationship="Self.FK__Login_Fun__Id_Fu__20C1E124" FromRole="Funcionario" ToRole="Login_Func" />
+    <NavigationProperty Name="Disciplina" Relationship="Self.Prof_Disc" FromRole="Funcionario" ToRole="Disciplina" />
+  </EntityType>
+  <EntityType Name="Login_Func">
+    <Key>
+      <PropertyRef Name="Id_Login_Func" />
+    </Key>
+    <Property Name="Id_Login_Func" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="login" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Senha" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Status" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Nivel_Acesso" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Id_Funcionario" Type="Int32" />
+    <NavigationProperty Name="Funcionario" Relationship="Self.FK__Login_Fun__Id_Fu__20C1E124" FromRole="Login_Func" ToRole="Funcionario" />
+  </EntityType>
+  <EntityType Name="Nivel">
+    <Key>
+      <PropertyRef Name="Id_Nivel" />
+    </Key>
+    <Property Name="Id_Nivel" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nivel1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Aula" Relationship="Self.FK__Aula__Id_Nivel__2A4B4B5E" FromRole="Nivel" ToRole="Aula" />
+  </EntityType>
+  <EntityType Name="Tema">
+    <Key>
+      <PropertyRef Name="Id_Tema" />
+    </Key>
+    <Property Name="Id_Tema" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tema1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Aula" Relationship="Self.FK__Aula__Id_Tema__286302EC" FromRole="Tema" ToRole="Aula" />
+  </EntityType>
+  <EntityType Name="Tipo">
+    <Key>
+      <PropertyRef Name="Id_Tipo" />
+    </Key>
+    <Property Name="Id_Tipo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tipo1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Aula" Relationship="Self.FK__Aula__Id_Tipo__29572725" FromRole="Tipo" ToRole="Aula" />
+  </EntityType>
+  <EntityType Name="Acesso">
+    <Key>
+      <PropertyRef Name="Id_Aula" />
+      <PropertyRef Name="Id_Aluno" />
+      <PropertyRef Name="Comentarios" />
+      <PropertyRef Name="Qualidade" />
+      <PropertyRef Name="Data_acesso" />
+    </Key>
+    <Property Name="Id_Aula" Type="Int32" Nullable="false" />
+    <Property Name="Id_Aluno" Type="Int32" Nullable="false" />
+    <Property Name="Comentarios" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Qualidade" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Data_acesso" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Aula" Relationship="Self.FK__Acesso__Id_Aula__25869641" FromRole="Acesso" ToRole="Aula" />
+    <NavigationProperty Name="Login_Aluno" Relationship="Estudo_AcademicoModel.FK__Acesso__Id_Aluno__29572725" FromRole="Acesso" ToRole="Login_Aluno" />
+  </EntityType>
+  <Association Name="FK__Acesso__Id_Aula__25869641">
+    <End Role="Aula" Type="Self.Aula" Multiplicity="1" />
+    <End Role="Acesso" Type="Self.Acesso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Aula">
+        <PropertyRef Name="Id_Aula" />
+      </Principal>
+      <Dependent Role="Acesso">
+        <PropertyRef Name="Id_Aula" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Aula__Id_Discipl__276EDEB3">
+    <End Role="Disciplina" Type="Self.Disciplina" Multiplicity="1" />
+    <End Role="Aula" Type="Self.Aula" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Disciplina">
+        <PropertyRef Name="Id_Disciplina" />
+      </Principal>
+      <Dependent Role="Aula">
+        <PropertyRef Name="Id_Disciplina" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Aula__Id_Funcion__267ABA7A">
+    <End Role="Funcionario" Type="Self.Funcionario" Multiplicity="1" />
+    <End Role="Aula" Type="Self.Aula" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Funcionario">
+        <PropertyRef Name="Id_Funcionario" />
+      </Principal>
+      <Dependent Role="Aula">
+        <PropertyRef Name="Id_Funcionario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Aula__Id_Nivel__2A4B4B5E">
+    <End Role="Nivel" Type="Self.Nivel" Multiplicity="1" />
+    <End Role="Aula" Type="Self.Aula" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nivel">
+        <PropertyRef Name="Id_Nivel" />
+      </Principal>
+      <Dependent Role="Aula">
+        <PropertyRef Name="Id_Nivel" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Aula__Id_Tema__286302EC">
+    <End Role="Tema" Type="Self.Tema" Multiplicity="1" />
+    <End Role="Aula" Type="Self.Aula" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tema">
+        <PropertyRef Name="Id_Tema" />
+      </Principal>
+      <Dependent Role="Aula">
+        <PropertyRef Name="Id_Tema" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Aula__Id_Tipo__29572725">
+    <End Role="Tipo" Type="Self.Tipo" Multiplicity="1" />
+    <End Role="Aula" Type="Self.Aula" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tipo">
+        <PropertyRef Name="Id_Tipo" />
+      </Principal>
+      <Dependent Role="Aula">
+        <PropertyRef Name="Id_Tipo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Funcionar__Id_Fu__2B3F6F97">
+    <End Role="Funcao" Type="Self.Funcao" Multiplicity="1" />
+    <End Role="Funcionario" Type="Self.Funcionario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Funcao">
+        <PropertyRef Name="Id_Funcao" />
+      </Principal>
+      <Dependent Role="Funcionario">
+        <PropertyRef Name="Id_Funcao" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Login_Fun__Id_Fu__20C1E124">
+    <End Role="Funcionario" Type="Self.Funcionario" Multiplicity="0..1" />
+    <End Role="Login_Func" Type="Self.Login_Func" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Funcionario">
+        <PropertyRef Name="Id_Funcionario" />
+      </Principal>
+      <Dependent Role="Login_Func">
+        <PropertyRef Name="Id_Funcionario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Prof_Disc">
+    <End Role="Disciplina" Type="Self.Disciplina" Multiplicity="*" />
+    <End Role="Funcionario" Type="Self.Funcionario" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="Estudo_AcademicoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Aula" EntityType="Self.Aula" />
+    <EntitySet Name="Disciplina" EntityType="Self.Disciplina" />
+    <EntitySet Name="Funcao" EntityType="Self.Funcao" />
+    <EntitySet Name="Funcionario" EntityType="Self.Funcionario" />
+    <EntitySet Name="Login_Func" EntityType="Self.Login_Func" />
+    <EntitySet Name="Nivel" EntityType="Self.Nivel" />
+    <EntitySet Name="Tema" EntityType="Self.Tema" />
+    <EntitySet Name="Tipo" EntityType="Self.Tipo" />
+    <EntitySet Name="Acesso" EntityType="Self.Acesso" />
+    <AssociationSet Name="FK__Acesso__Id_Aula__25869641" Association="Self.FK__Acesso__Id_Aula__25869641">
+      <End Role="Aula" EntitySet="Aula" />
+      <End Role="Acesso" EntitySet="Acesso" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Aula__Id_Discipl__276EDEB3" Association="Self.FK__Aula__Id_Discipl__276EDEB3">
+      <End Role="Disciplina" EntitySet="Disciplina" />
+      <End Role="Aula" EntitySet="Aula" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Aula__Id_Funcion__267ABA7A" Association="Self.FK__Aula__Id_Funcion__267ABA7A">
+      <End Role="Funcionario" EntitySet="Funcionario" />
+      <End Role="Aula" EntitySet="Aula" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Aula__Id_Nivel__2A4B4B5E" Association="Self.FK__Aula__Id_Nivel__2A4B4B5E">
+      <End Role="Nivel" EntitySet="Nivel" />
+      <End Role="Aula" EntitySet="Aula" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Aula__Id_Tema__286302EC" Association="Self.FK__Aula__Id_Tema__286302EC">
+      <End Role="Tema" EntitySet="Tema" />
+      <End Role="Aula" EntitySet="Aula" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Aula__Id_Tipo__29572725" Association="Self.FK__Aula__Id_Tipo__29572725">
+      <End Role="Tipo" EntitySet="Tipo" />
+      <End Role="Aula" EntitySet="Aula" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Funcionar__Id_Fu__2B3F6F97" Association="Self.FK__Funcionar__Id_Fu__2B3F6F97">
+      <End Role="Funcao" EntitySet="Funcao" />
+      <End Role="Funcionario" EntitySet="Funcionario" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Login_Fun__Id_Fu__20C1E124" Association="Self.FK__Login_Fun__Id_Fu__20C1E124">
+      <End Role="Funcionario" EntitySet="Funcionario" />
+      <End Role="Login_Func" EntitySet="Login_Func" />
+    </AssociationSet>
+    <AssociationSet Name="Prof_Disc" Association="Self.Prof_Disc">
+      <End Role="Disciplina" EntitySet="Disciplina" />
+      <End Role="Funcionario" EntitySet="Funcionario" />
+    </AssociationSet>
+    <EntitySet Name="Login_Aluno" EntityType="Estudo_AcademicoModel.Login_Aluno" />
+    <AssociationSet Name="FK__Acesso__Id_Aluno__29572725" Association="Estudo_AcademicoModel.FK__Acesso__Id_Aluno__29572725">
+      <End Role="Login_Aluno" EntitySet="Login_Aluno" />
+      <End Role="Acesso" EntitySet="Acesso" />
+    </AssociationSet>
+    <FunctionImport Name="sp_Prof_Disc" ReturnType="Collection(Estudo_AcademicoModel.sp_Prof_Disc_Result)">
+      <Parameter Name="Id" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="fn_prof_Disc">
+      <Parameter Name="Id" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="Login_Aluno">
+    <Key>
+      <PropertyRef Name="Id_Aluno" />
+    </Key>
+    <Property Name="Id_Aluno" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Senha" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Nome" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" Nullable="false" MaxLength="1" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="Acesso" Relationship="Estudo_AcademicoModel.FK__Acesso__Id_Aluno__29572725" FromRole="Login_Aluno" ToRole="Acesso" />
+  </EntityType>
+  <Association Name="FK__Acesso__Id_Aluno__29572725">
+    <End Type="Estudo_AcademicoModel.Login_Aluno" Role="Login_Aluno" Multiplicity="1" />
+    <End Type="Estudo_AcademicoModel.Acesso" Role="Acesso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Login_Aluno">
+        <PropertyRef Name="Id_Aluno" />
+      </Principal>
+      <Dependent Role="Acesso">
+        <PropertyRef Name="Id_Aluno" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="sp_Prof_Disc_Result">
+    <Property Type="Int32" Name="Id_Disciplina" Nullable="false" />
+    <Property Type="String" Name="Disciplina" Nullable="false" MaxLength="100" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,404 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <title>Estudo Acadêmico</title>
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon" /> <!--colocar logo EA quando estiver pronto-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <link href="~/Content/CSS/Bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/CSS/MenuLateral.css" rel="stylesheet" />
+    <link href="~/Content/CSS/w3.css" rel="stylesheet" />
+    <link href="~/Content/CSS/Fonte.css" rel="stylesheet" />
+    <link href="~/Content/CSS/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/CSS/Estilo.css" rel="stylesheet" />
+
+
+    <style type="text/css">
+
+
+        table {
+            border-collapse: collapse;
+            border: 1px solid #CCC;
+        }
+
+        #tabela tr {
+            border: 1px solid #CCC;
+        }
+
+        #tabela td {
+            width: 40px;
+            height: 40px;
+            padding: 10px;
+            border: 1px solid #CCC;
+        }
+
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: "Lato", sans-serif;
+        }
+
+        body, html {
+            height: 100%;
+            color: #777;
+            line-height: 1.8;
+        }
+
+        .textarea {
+            resize: none; /* impede que o próprio usuário altere o tamanho do textarea */
+            width: 300px;
+            height: 100px;
+            overflow-y: auto;
+        }
+
+        /* Create a Parallax Effect */
+        .bgimg-1, .bgimg-2, .bgimg-3 {
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .w3-row-padding img {
+            margin-bottom: 12px
+        }
+        /* Set the width of the sidebar to 120px */
+        .w3-sidebar {
+            width: 120px;
+        }
+        /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+        #main {
+            margin-left: 120px
+        }
+        /* Remove margins from "page content" on small screens */
+        @@media only screen and (max-width: 600px) {
+            #main {
+                margin-left: 0
+            }
+        }
+        /* First image (Logo. Full height) */
+        .bgimg-1 {
+            background-image: url('../../Content/imagens/estudantes.png');
+            min-height: 100%;
+        }
+
+        /* Second image (Portfolio) */
+        .bgimg-2 {
+            background-image: url('../../Content/imagens/estudantes.png');
+            min-height: 400px;
+        }
+
+        /* Third image (Contact) */
+        .bgimg-3 {
+            background-image: url('../../Content/imagens/estudantes.png');
+            min-height: 400px;
+        }
+
+        .w3-wide {
+            letter-spacing: 10px;
+        }
+
+        .w3-hover-opacity {
+            cursor: pointer;
+        }
+
+        /* Turn off parallax scrolling for tablets and phones */
+        @@media only screen and (max-device-width: 1600px) {
+            .bgimg-1, .bgimg-2, .bgimg-3 {
+                background-attachment: scroll;
+                min-height: 400px;
+            }
+        }
+    </style>
+    <script src="~/Content/JS/ajax.js"></script>
+    <script src="~/Content/JS/Bootstrapcdn.js"></script>
+    <script src="~/Content/JS/JQuery.js"></script>
+    <script src="~/Content/JS/CloudFare.js"></script>
+    <script language="JavaScript" type="text/javascript">function InserirData() { document.write(TODAY); }</script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        // Modal Image Gallery
+        function onClick(element) {
+            document.getElementById("img01").src = element.src;
+            document.getElementById("modal01").style.display = "block";
+            var captionText = document.getElementById("caption");
+            captionText.innerHTML = element.alt;
+        }
+
+        // Change style of navbar on scroll
+        window.onscroll = function () { myFunction() };
+        function myFunction() {
+            var navbar = document.getElementById("myNavbar");
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                navbar.className = "w3-bar" + " w3-card" + " w3-animate-top" + " w3-white";
+            } else {
+                navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
+            }
+        }
+
+        // Used to toggle the menu on small screens when clicking on the menu button
+        function toggleFunction() {
+            var x = document.getElementById("navDemo");
+            if (x.className.indexOf("w3-show") == -1) {
+                x.className += " w3-show";
+            } else {
+                x.className = x.className.replace(" w3-show", "");
+            }
+        }
+
+        function BarraDeProgresso75() {
+            var elem = document.getElementById("myBar75");
+            var width = 0;
+            var id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 75) {
+                    clearInterval(id);
+                } else {
+                    width++;
+                    elem.style.width = width + '%';
+                    elem.innerHTML = width * 1 + '%';
+                }
+            }
+        }
+
+        function BarraDeProgresso85() {
+            var elem = document.getElementById("myBar85");
+            var width = 0;
+            var id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 85) {
+                    clearInterval(id);
+                } else {
+                    width++;
+                    elem.style.width = width + '%';
+                    elem.innerHTML = width * 1 + '%';
+                }
+            }
+        }
+
+        function BarraDeProgresso90() {
+            var elem = document.getElementById("myBar90");
+            var width = 0;
+            var id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 90) {
+                    clearInterval(id);
+                } else {
+                    width++;
+                    elem.style.width = width + '%';
+                    elem.innerHTML = width * 1 + '%';
+                }
+            }
+        }
+
+
+
+        function pegaData() {
+            data = new Date
+
+            data.getDate();
+        }
+
+
+        jQuery(document).ready(function () {
+
+            jQuery("#subirTopo").hide();
+
+            jQuery('a#subirTopo').click(function () {
+                jQuery('body,html').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+
+            jQuery(window).scroll(function () {
+                if (jQuery(this).scrollTop() > 800) {
+                    jQuery('#subirTopo').fadeIn();
+                } else {
+                    jQuery('#subirTopo').fadeOut();
+                }
+            });
+        });
+
+        jQuery(document).ready(function () {
+
+            jQuery("#voltarAoTopo").hide();
+
+            jQuery('a#voltarAoTopo').click(function () {
+                jQuery('body,html').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+
+            jQuery(window).scroll(function () {
+                if (jQuery(this).scrollTop() > 800) {
+                    jQuery('#voltarAoTopo').fadeIn();
+                } else {
+                    jQuery('#voltarAoTopo').fadeOut();
+                }
+            });
+        });
+
+        $("#btn-biologia").click(function () {
+            $("#modal-biologia").modal();
+        });
+
+        $("#btn-edf").click(function () {
+            $("#modal-edf").modal();
+        });
+
+        $("#btn-fil").click(function () {
+            $("#modal-fil").modal();
+        });
+
+        $("#btn-fis").click(function () {
+            $("#modal-fis").modal();
+        });
+
+        $("#btn-geo").click(function () {
+            $("#modal-geo").modal();
+        });
+
+        $("#btn-his").click(function () {
+            $("#modal-his").modal();
+        });
+
+        $("#btn-ing").click(function () {
+            $("#modal-ing").modal();
+        });
+
+        $("#btn-mat").click(function () {
+            $("#modal-mat").modal();
+        });
+
+        $("#btn-por").click(function () {
+            $("#modal-por").modal();
+        });
+
+        $("#btn-qui").click(function () {
+            $("#modal-qui").modal();
+        });
+
+        $("#btn-soc").click(function () {
+            $("#modal-soc").modal();
+        });
+
+
+        function logar() {
+            window.location.replace("~/Views/Home/ProfessorEnvio.cshtml");
+        }
+
+        function Tema() {
+            // Declare variables
+            var input, filter, table, tr, td, i, txtValue;
+            input = document.getElementById("txtTema");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("tbTema");
+            tr = table.getElementsByTagName("tr");
+
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+
+        $('input#txt_consulta').quicksearch('table#tabela tbody tr');
+
+        function pegarNomeArquivo(input) {
+            var fakePath = input.value;
+            var pts = fakePath.split('\\');
+            var nomeArquivo = pts[pts.length - 1];
+            document.getElementById('txtCaminho').value = nomeArquivo;
+        }
+    </script>
+
+   
+
+</head>
+
+<body onload="return InserirData();">
+
+    @section scripts{
+        <script>
+            $(function () {
+                $(".details").click(function () {
+                    var id = $(this).attr("data-id");
+                    alert(id);
+                    $("#modal").load("Details?id=" + id, function () {
+                        $("#modal").modal();
+                    })
+                });
+
+                $(".edit").click(function () {
+                    var id = $(this).attr("data-id");
+                    alert(id);
+                    $("#modal").load("Edit?id=" + id, function () {
+                        $("#modal").modal();
+                    })
+                });
+
+                $(".delete").click(function () {
+                    var id = $(this).attr("data-id");
+                    alert(id);
+                    $("#modal").load("Delete?id=" + id, function () {
+                        $("#modal").modal();
+                    })
+                });
+
+                $(".create").click(function () {
+                    $("#modal").load("Create", function () {
+                        $("#modal").modal();
+                    })
+                });
+
+            })
+
+            
+        </script>
+    }
+
+
+
+
+    @RenderBody()
+    <!-- Footer -->
+    @*<footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
+        <a id="voltarAoTopo" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>Voltar ao topo</a>
+        <div class="w3-xlarge w3-section">
+            <a href="https://pt-br.facebook.com/" target="_blank"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+            <a href="https://www.instagram.com/?hl=pt-br" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+            <a href="https://www.snapchat.com/l/pt-br/" target="_blank"><i class="fa fa-snapchat w3-hover-opacity"></i></a>
+            <a href="https://twitter.com/login?lang=pt" target="_blank"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+
+        </div>
+        <a id="subirTopo" class="w3-light-blue w3-circle">
+            <i class="fa fa-arrow-up"></i>
+        </a>
+        <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+    </footer>*@
+
+
+</body>
+</html>

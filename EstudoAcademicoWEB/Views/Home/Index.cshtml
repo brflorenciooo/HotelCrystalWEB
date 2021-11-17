@@ -1,0 +1,203 @@
+﻿@model EstudoAcademicoWEB.Models.FaleConosco
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<title>CRYSTAL Hotelaria</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+    <!-- Navbar (sit on top) -->
+    <div class="w3-top">
+        <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+            <a href="#home" class="w3-bar-item w3-button"><b>CRYSTAL</b> Hotelaria</a>
+            <!-- Float links to the right. Hide them on small screens -->
+            <div class="w3-right w3-hide-small">
+                <a href="#projects" class="w3-bar-item w3-button">Imagens</a>
+                <a href="#about" class="w3-bar-item w3-button">Sobre</a>
+                <a href="#contact" class="w3-bar-item w3-button">Contato</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+        <img class="w3-image" src="~/Content/imagens/excelente-vista-do-hotel.jpg" alt="hotel" width="1500" height="800">
+        <div class="w3-display-middle w3-margin-top w3-center">
+            <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>CRYSTAL</b></span> <span class="w3-hide-small w3-text-light-grey">Hotelaria</span></h1>
+        </div>
+    </header>
+
+    <!-- Page content -->
+    <div class="w3-content w3-padding" style="max-width:1564px">
+
+        <!-- Project Section -->
+        <div class="w3-container w3-padding-32" id="projects">
+            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Imagens</h3>
+        </div>
+
+        <div class="w3-row-padding">
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/frente.jpg" alt="Frente" style="width:100%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/cima.jpg" alt="Visão superiror" style="width:100%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/recepcao.jpg" alt="Recepção" style="width:100%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/piscina.jpg" alt="Piscina" style="width:100%">
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-row-padding">
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/sala jantar.jpg" alt="sala de jantar" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/sala de jantar.jpg" alt="sala de jantar 2" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/banheiro.jpg" alt="banheiro" style="width:99%; height:200px">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <img src="~/Content/imagens/corredor arte.jpg" alt="Corredor de arte" style="width:99%">
+                </div>
+            </div>
+        </div>
+
+        <br /><br /><br /><br />
+        <div class="w3-row-padding w3-padding-16">
+            <div class="w3-third w3-margin-bottom">
+                <img src="~/Content/imagens/standard.jpg" alt="Standard" style="width:100%; height:280px">
+                <div class="w3-container w3-white">
+                    <h3>Quarto Standard</h3>
+                    <h6 class="w3-opacity">À partir de R$ 110,00</h6>
+                    <p>Quartos mais baratos</p>
+                    <p>Serviços básicos</p>
+                    <p>Contem: cama, criado mudo, abajur, armário e uma pequena mesa, além do banheiro privativo</p>
+                    <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i></p>
+                    <button class="w3-button w3-block w3-black w3-margin-bottom">Escolher quarto</button>
+                </div>
+            </div>
+            <div class="w3-third w3-margin-bottom">
+                <img src="~/Content/imagens/master.jpg" alt="Master" style="width:100%">
+                <div class="w3-container w3-white">
+                    <h3>Quarto Master</h3>
+                    <h6 class="w3-opacity">À partir de R$ 520,00</h6>
+                    <p>Logo acima do Standard</p>
+                    <p>Possui um pouco mais de espaço do tipo anterior, proporcionalmente também um pouco mais caro</p>
+                    <p>Esses quartos também contem sofá e cadeiras</p>
+                    <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i></p>
+                    <button class="w3-button w3-block w3-black w3-margin-bottom">Escolher quarto</button>
+                </div>
+            </div>
+            <div class="w3-third w3-margin-bottom">
+                <img src="~/Content/imagens/deluxe.jpg" alt="deluxe" style="width:100%">
+                <div class="w3-container w3-white">
+                    <h3>Quarto Deluxe</h3>
+                    <h6 class="w3-opacity">À partir de R$ 960,00</h6>
+                    <p>Os melhores quartos que o hotal possui e também os mais caros</p>
+                    <p>São procurados para quem não quer uma viagem qualquer. Seja nos serviços ou no espaço</p>
+                    <p>Possuem portas para separar os ambientes</p>
+                    <p>Esses quartos tem banheira a disposição</p>
+                    <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i> <i class="fa fa-glass"></i> <i class="fa fa-cutlery"></i></p>
+                    <button class="w3-button w3-block w3-black w3-margin-bottom">Escolher quarto</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- QUARTOS -->
+
+
+
+        <div class="w3-row-padding" id="about">
+
+
+            <div class="w3-row-padding" id="about">
+                <!-- About Section -->
+                <div class="w3-container w3-padding-32" id="about">
+                    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Sobre</h3>
+                    <p>
+                        Este hotel de convenções moderno, dividido entre duas torres, fica a três quilômetros do Parque Ibirapuera e a
+                        sete quilômetros do Museu de Arte de São Paulo.
+                        Os quartos com mobília moderna contam com TVs com tela plana com canais por satélite, acesso Wi-Fi gratuito,
+                        frigobares e escrivaninhas. As suítes incluem áreas de estar separadas com sofás-camas. Serviço de quarto disponível.
+
+                        O café da manhã completo está disponível mediante uma taxa. Há um restaurante refinado que serve pratos internacionais e um bar no lobby.
+                        Outras comodidades incluem um centro de convenções com 11 salas de reuniões, sala de ginástica, piscina coberta aquecida e área de spa
+                        com sauna.
+                    </p>
+                </div>
+
+
+                <!-- Contact Section -->
+                <div class="w3-container w3-padding-32" id="contact">
+                    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Fale conosco</h3>
+                    <p>Entre em contato concosco para agendar sua reserva ou tirar alguma dúvida!</p>
+                    @using (Html.BeginForm("EnviaEmail", "Home", FormMethod.Post, new { id = "frmfaleConosco" }))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        @Html.EditorFor(model => model.NOME_DO_REMETENTE, new { htmlAttributes = new { placeholder = "Nome", @name = "Name", @class = "w3-input w3-section w3-border" } })
+                        @Html.ValidationMessageFor(model => model.NOME_DO_REMETENTE, "", new { @class = "text-danger" })
+
+                        @Html.EditorFor(model => model.EMAIL, new { htmlAttributes = new { placeholder = "Email", @name = "Name", @class = "w3-input w3-section w3-border" } })
+                        @Html.ValidationMessageFor(model => model.EMAIL, "", new { @class = "text-danger" })
+                        <input class="w3-input w3-section w3-border" type="text" placeholder="Assunto" required name="Assunto">
+                        @Html.EditorFor(model => model.MENSAGEM, new { htmlAttributes = new { placeholder = "Comentário", @name = "Comentário", @class = "w3-input w3-section w3-border" } })
+                        @Html.ValidationMessageFor(model => model.MENSAGEM, "", new { @class = "text-danger" })
+                        <a class="w3-button w3-black w3-section" href="javascript:;" onClick="sendMail();" id="enviar">
+                            <i class="fa fa-paper-plane"></i> Enviar mensagem
+                        </a>
+
+                    }
+                </div>
+
+                <!-- Image of location/map -->
+                <div class="w3-container">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.882020681141!2d-46.668798685541795!3d-23.608563769221067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a08c471b4a9%3A0x57b8c5a246d11557!2sAv.%20Ibirapuera%2C%202927%20-%20Indian%C3%B3polis%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004029-200!5e0!3m2!1spt-BR!2sbr!4v1621370436374!5m2!1spt-BR!2sbr"
+                            width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+
+                <!-- End page content -->
+            </div>
+
+
+            <!-- Footer -->
+            <footer class="w3-center w3-black w3-padding-16">
+                <!--<p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>-->
+            </footer>
+
+            <script>
+                function sendMail() {
+                    document.getElementById('frmfaleConosco').submit();
+
+                    alert("Pedido de ajuda enviado com sucesso!")
+                }
+            </script>
+</body>
+
+</html>
+
